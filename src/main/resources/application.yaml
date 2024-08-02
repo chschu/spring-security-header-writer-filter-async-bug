@@ -1,0 +1,3 @@
+server:
+  tomcat:
+    max-http-response-header-size: 65536
